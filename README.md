@@ -13,7 +13,7 @@
 </div>
 
 
-<h1>I'm a Fullstuck developar <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
+<h1>I'm a Student Fullstuck <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
 <img align="right" alt="GIF" height="160px" margin="0px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br/>
 👨‍💻 I’m currently undergraduate informatics student at SMA 1 Kedunggalar
